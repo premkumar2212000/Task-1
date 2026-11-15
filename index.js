@@ -1,4 +1,4 @@
-var employeeName = "Alex Morgan";
+var employeeName = "Premkumar";
 console.log("1. Employee Name:", employeeName);
 
 let employeeAge = 25;
@@ -16,10 +16,10 @@ console.log("   Salary after 1st update:", salary);
 salary = 80000;
 console.log("   Salary after 2nd update:", salary);
 
-let city = "New York";
+let city = "Salem";
 console.log("5. Initial City:", city);
 
-city = "San Francisco";
+city = "Salem";
 console.log("   Reinitialized City:", city);
 
 var course = "Web Development";
@@ -37,11 +37,11 @@ try {
   console.log("   Result / Error caught:", error.toString());
 }
 
-const country = "United States";
+const country = "India";
 console.log("8. Declared: const country =", country);
 
 try {
-  country = "Canada";
+  country = "India";
 } catch (error) {
   console.log("   Result / Error caught:", error.toString());
 }
@@ -55,11 +55,11 @@ console.log("    itemVar   (var)   :", itemVar);
 console.log("    itemLet   (let)   :", itemLet);
 console.log("    itemConst (const) :", itemConst);
 
-console.log("Full Name: John Doe");
+console.log("Full Name: Premkumar");
 console.log("Date of Birth: January 15, 2000");
 document.writeln("Company: Stackly Technologies");
-console.warn("Designation: Software Engineer");
-console.error("Department: Engineering");
+console.warn("Designation: Frontend Developer");
+console.error("Department: Software Development");
 console.log("Favourite Food: Biryani");
 let productPrice = 499.99;
 console.log("Product Price:", productPrice);
@@ -101,9 +101,9 @@ console.log("Task Started");
 console.warn("Low Battery");
 console.error("Invalid Username");
 
-console.log("Name: John Doe");
+console.log("Name: Premkumar");
 console.log("Age: 25");
-console.log("City: New York");
+console.log("City: Salem");
 
 console.clear();
 console.log("Console Cleared");
@@ -121,7 +121,7 @@ console.log("Message 1 (log): Application loaded successfully.");
 console.warn("Message 2 (warn): Disk space running low.");
 console.error("Message 3 (error): Connection timeout occurred.");
 
-var candidateName = "Alex";
+var candidateName = "Premkumar";
 let candidateRole = "Frontend Developer";
 const candidateLocation = "India";
 const candidateStatus = "Active";
